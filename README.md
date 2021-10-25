@@ -1,5 +1,7 @@
 # reactProject
 
+Projet disponible en CI/CD via Vercel : https://react-project-1pcfsb6zd-leof-s.vercel.app/
+
 Version: V1.0
 
 Status: On going work
