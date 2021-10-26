@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
-import Board from './board'
-import Message from './message'
-import Refresh from './refresh'
+import React, { useState } from 'react';
+import Board from './board';
+import Message from './message';
+import Refresh from './refresh';
 
 const isWon = (board) => {
     // list of postion that is winning
@@ -81,4 +81,4 @@ const Game = () => {
         </div>)
 }
 
-export default Game
+export default Game;

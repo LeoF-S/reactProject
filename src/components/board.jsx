@@ -1,5 +1,5 @@
-import React from 'react'
-import Box from './box'
+import React from 'react';
+import Box from './box';
 
 
 // creating a sqaure box in with grid layout
@@ -20,4 +20,4 @@ const Board = (props) => (
     </div>
 )
 
-export default Board
+export default Board;

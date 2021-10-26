@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const style = {
 	width: "250px",
@@ -8,6 +8,6 @@ const style = {
 	fontWeight: "800",
 };
 
-const Refresh = (props) => <button name={"btn"} style={style} onClick={props.onClick}>{props.value}</button>
+const Refresh = (props) => <button name={"btn"} style={style} onClick={props.onClick}>{props.value}</button>;
 
-export default Refresh
+export default Refresh;
